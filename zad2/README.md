@@ -1,5 +1,5 @@
 
-# zad1
+# zad2
 
 # uruchomic
 make all
